@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Custom Theme Calculator",
-    "slug": "Custom Theme Calculator",
+    "slug": "custom-theme-calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
